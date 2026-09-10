@@ -1,0 +1,10 @@
+float64 duration
+float64 w_c
+float64 v_c
+float64 Mode_c
+float64 shaftcut_c
+float64 level_c
+float64 cir_x
+float64 cir_y
+float64 cur_x
+float64 cur_y

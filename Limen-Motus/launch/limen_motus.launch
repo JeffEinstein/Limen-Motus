@@ -1,0 +1,4 @@
+<launch>
+  <node name="map_server" pkg="map_server" type="map_server" args="$(find limen_motus)/maps/map.yaml" />
+  <node name="limen_motus" pkg="limen_motus" type="limen_motus" output="screen" />
+</launch>
